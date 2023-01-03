@@ -1,0 +1,46 @@
+section
+{
+    border-top: 15px solid #ff0000;
+    border-bottom: 15px solid #ff0000;
+}
+
+#paragraph1 
+{
+    border-bottom: 5px solid lime;
+}
+
+#paragraph2 
+{
+    border-bottom: 15px solid lime;
+}
+
+#border__dotted 
+{
+    border: dotted 15px lime;
+}
+
+#border__inset 
+{
+    border: inset 15px lime;
+}
+
+#border__crimson 
+{
+    border: crimson;
+}
+
+img 
+{
+    border-radius: 50%;
+}
+
+.user_name 
+{
+ border-bottom: lime solid;
+}
+
+.knopf
+{
+    border-radius: 5px;
+    background: chocolate;
+}
